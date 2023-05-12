@@ -6,37 +6,7 @@
 
 ## Folder Structure
 
-pricing/
-
-├── final/
-
-│ ├── factory/
-
-│ │ ├── menuItem.js: class father of Drink and Food to support factory pattern
-
-│ │ ├── menuItemFactory.js: class for factory pattern
-
-| | └── order.js: class contains list of Items (Drink and Food)
-
-│ ├── model/
-
-│ │ ├── drink.js: class for drink type
-
-│ │ └── food.js: class for food type
-
-│ └── main.js: contains testing case
-
-├── thinkingProcess/
-
-│ ├── v0.0.2.js: code after I solved calculatePrice2
-
-│ ├── v0.0.3.js: code after I solved calculatePrice3
-
-│ ├── v0.0.4.js: code after I solved
-
-│ └── v0.0.5.js: code after I solved calculatePrice5
-
-├── README.md: documentation
+![Folder Structure](./folderStructure.png "This is folder structure")
 
 ## Documentation
 
